@@ -1,0 +1,1296 @@
+июн. 08, 2020 1:43:44 PM Area <init>
+INFO:  worker main made car with id 
+июн. 08, 2020 1:43:45 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 08, 2020 1:43:46 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 08, 2020 1:43:46 PM carorder run
+INFO:  worker 2 made car with id 3
+июн. 08, 2020 1:43:47 PM carorder run
+INFO:  worker 1 made car with id 4
+июн. 08, 2020 1:43:48 PM carorder run
+INFO:  worker 2 made car with id 5
+июн. 08, 2020 1:43:48 PM carorder run
+INFO:  worker 1 made car with id 6
+июн. 08, 2020 1:43:49 PM carorder run
+INFO:  worker 2 made car with id 7
+июн. 08, 2020 1:43:50 PM carorder run
+INFO:  worker 1 made car with id 8
+июн. 08, 2020 1:43:51 PM carorder run
+INFO:  worker 2 made car with id 9
+июн. 08, 2020 1:46:51 PM Area <init>
+INFO:  worker main made car with id 
+июн. 08, 2020 1:46:52 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 08, 2020 1:46:53 PM carorder run
+INFO:  worker 0 made car with id 2
+июн. 08, 2020 1:46:54 PM carorder run
+INFO:  worker 2 made car with id 3
+июн. 08, 2020 1:46:54 PM carorder run
+INFO:  worker 0 made car with id 4
+июн. 08, 2020 1:46:55 PM carorder run
+INFO:  worker 2 made car with id 5
+июн. 08, 2020 1:46:56 PM carorder run
+INFO:  worker 0 made car with id 6
+июн. 08, 2020 1:46:56 PM carorder run
+INFO:  worker 2 made car with id 7
+июн. 08, 2020 1:46:57 PM carorder run
+INFO:  worker 0 made car with id 8
+июн. 08, 2020 1:47:24 PM Area <init>
+INFO:  worker main made car with id 
+июн. 08, 2020 1:47:25 PM carorder run
+INFO:  worker 1 made car with id 1
+июн. 08, 2020 1:47:25 PM carorder run
+INFO:  worker 2 made car with id 2
+июн. 08, 2020 1:47:26 PM carorder run
+INFO:  worker 1 made car with id 3
+июн. 08, 2020 1:47:27 PM carorder run
+INFO:  worker 2 made car with id 4
+июн. 08, 2020 1:47:27 PM carorder run
+INFO:  worker 1 made car with id 5
+июн. 08, 2020 1:47:28 PM carorder run
+INFO:  worker 2 made car with id 6
+июн. 08, 2020 1:47:29 PM carorder run
+INFO:  worker 1 made car with id 7
+июн. 08, 2020 1:47:30 PM carorder run
+INFO:  worker 2 made car with id 8
+июн. 08, 2020 1:47:30 PM carorder run
+INFO:  worker 1 made car with id 9
+июн. 08, 2020 1:47:31 PM carorder run
+INFO:  worker 2 made car with id 10
+июн. 08, 2020 1:47:32 PM carorder run
+INFO:  worker 1 made car with id 11
+июн. 08, 2020 1:47:53 PM Area <init>
+INFO:  worker main made car with id 
+июн. 08, 2020 2:51:07 PM carorder run
+INFO:  worker 1 made car with id 1
+июн. 08, 2020 2:51:08 PM carorder run
+INFO:  worker 2 made car with id 2
+июн. 08, 2020 2:51:08 PM carorder run
+INFO:  worker 1 made car with id 3
+июн. 08, 2020 2:51:09 PM carorder run
+INFO:  worker 2 made car with id 4
+июн. 08, 2020 2:51:10 PM carorder run
+INFO:  worker 1 made car with id 5
+июн. 08, 2020 2:51:10 PM carorder run
+INFO:  worker 2 made car with id 6
+июн. 08, 2020 2:51:11 PM carorder run
+INFO:  worker 1 made car with id 7
+июн. 08, 2020 2:51:11 PM carorder run
+INFO:  worker 2 made car with id 8
+июн. 08, 2020 2:51:12 PM carorder run
+INFO:  worker 1 made car with id 9
+июн. 08, 2020 2:51:12 PM carorder run
+INFO:  worker 2 made car with id 10
+июн. 08, 2020 2:51:12 PM carorder run
+INFO:  worker 1 made car with id 11
+июн. 08, 2020 2:51:13 PM carorder run
+INFO:  worker 2 made car with id 12
+июн. 08, 2020 2:51:13 PM carorder run
+INFO:  worker 1 made car with id 13
+июн. 08, 2020 2:51:13 PM carorder run
+INFO:  worker 2 made car with id 14
+июн. 08, 2020 2:51:13 PM carorder run
+INFO:  worker 1 made car with id 15
+июн. 08, 2020 2:51:14 PM carorder run
+INFO:  worker 2 made car with id 16
+июн. 08, 2020 2:51:14 PM carorder run
+INFO:  worker 1 made car with id 17
+июн. 08, 2020 2:51:14 PM carorder run
+INFO:  worker 2 made car with id 18
+июн. 08, 2020 2:51:14 PM carorder run
+INFO:  worker 1 made car with id 19
+июн. 08, 2020 2:51:15 PM carorder run
+INFO:  worker 2 made car with id 20
+июн. 08, 2020 2:51:15 PM carorder run
+INFO:  worker 1 made car with id 21
+июн. 08, 2020 2:51:15 PM carorder run
+INFO:  worker 2 made car with id 22
+июн. 08, 2020 2:51:15 PM carorder run
+INFO:  worker 1 made car with id 23
+июн. 08, 2020 2:51:16 PM carorder run
+INFO:  worker 2 made car with id 24
+июн. 08, 2020 2:51:16 PM carorder run
+INFO:  worker 1 made car with id 25
+июн. 08, 2020 2:51:16 PM carorder run
+INFO:  worker 2 made car with id 26
+июн. 08, 2020 2:51:17 PM carorder run
+INFO:  worker 1 made car with id 27
+июн. 08, 2020 2:51:17 PM carorder run
+INFO:  worker 2 made car with id 28
+июн. 08, 2020 2:51:17 PM carorder run
+INFO:  worker 1 made car with id 29
+июн. 08, 2020 2:51:17 PM carorder run
+INFO:  worker 2 made car with id 30
+июн. 08, 2020 2:51:18 PM carorder run
+INFO:  worker 1 made car with id 31
+июн. 08, 2020 2:51:18 PM carorder run
+INFO:  worker 2 made car with id 32
+июн. 08, 2020 2:51:18 PM carorder run
+INFO:  worker 1 made car with id 33
+июн. 08, 2020 2:51:18 PM carorder run
+INFO:  worker 2 made car with id 34
+июн. 08, 2020 2:51:19 PM carorder run
+INFO:  worker 1 made car with id 35
+июн. 08, 2020 2:51:19 PM carorder run
+INFO:  worker 2 made car with id 36
+июн. 08, 2020 2:51:19 PM carorder run
+INFO:  worker 1 made car with id 37
+июн. 08, 2020 2:51:19 PM carorder run
+INFO:  worker 2 made car with id 38
+июн. 08, 2020 2:51:20 PM carorder run
+INFO:  worker 1 made car with id 39
+июн. 08, 2020 2:51:20 PM carorder run
+INFO:  worker 2 made car with id 40
+июн. 08, 2020 2:51:20 PM carorder run
+INFO:  worker 1 made car with id 41
+июн. 08, 2020 2:51:21 PM carorder run
+INFO:  worker 2 made car with id 42
+июн. 08, 2020 2:51:21 PM carorder run
+INFO:  worker 1 made car with id 43
+июн. 08, 2020 2:51:21 PM carorder run
+INFO:  worker 2 made car with id 44
+июн. 08, 2020 2:51:21 PM carorder run
+INFO:  worker 1 made car with id 45
+июн. 08, 2020 2:51:22 PM carorder run
+INFO:  worker 2 made car with id 46
+июн. 08, 2020 2:51:22 PM carorder run
+INFO:  worker 1 made car with id 47
+июн. 08, 2020 2:51:22 PM carorder run
+INFO:  worker 2 made car with id 48
+июн. 08, 2020 2:51:22 PM carorder run
+INFO:  worker 1 made car with id 49
+июн. 08, 2020 2:51:23 PM carorder run
+INFO:  worker 2 made car with id 50
+июн. 08, 2020 2:51:23 PM carorder run
+INFO:  worker 1 made car with id 51
+июн. 08, 2020 2:51:23 PM carorder run
+INFO:  worker 2 made car with id 52
+июн. 08, 2020 2:51:23 PM carorder run
+INFO:  worker 1 made car with id 53
+июн. 08, 2020 2:51:24 PM carorder run
+INFO:  worker 2 made car with id 54
+июн. 08, 2020 2:51:24 PM carorder run
+INFO:  worker 1 made car with id 55
+июн. 08, 2020 2:51:24 PM carorder run
+INFO:  worker 2 made car with id 56
+июн. 08, 2020 2:51:25 PM carorder run
+INFO:  worker 1 made car with id 57
+июн. 08, 2020 2:51:25 PM carorder run
+INFO:  worker 2 made car with id 58
+июн. 08, 2020 2:51:25 PM carorder run
+INFO:  worker 1 made car with id 59
+июн. 08, 2020 2:51:25 PM carorder run
+INFO:  worker 2 made car with id 60
+июн. 08, 2020 2:51:26 PM carorder run
+INFO:  worker 1 made car with id 61
+июн. 08, 2020 2:51:26 PM carorder run
+INFO:  worker 2 made car with id 62
+июн. 08, 2020 2:51:26 PM carorder run
+INFO:  worker 1 made car with id 63
+июн. 08, 2020 2:51:26 PM carorder run
+INFO:  worker 2 made car with id 64
+июн. 08, 2020 2:51:27 PM carorder run
+INFO:  worker 1 made car with id 65
+июн. 08, 2020 2:51:27 PM carorder run
+INFO:  worker 2 made car with id 66
+июн. 08, 2020 2:51:27 PM carorder run
+INFO:  worker 1 made car with id 67
+июн. 08, 2020 2:51:28 PM carorder run
+INFO:  worker 2 made car with id 68
+июн. 08, 2020 2:51:29 PM carorder run
+INFO:  worker 1 made car with id 69
+июн. 08, 2020 2:51:30 PM carorder run
+INFO:  worker 0 made car with id 70
+июн. 08, 2020 2:51:31 PM carorder run
+INFO:  worker 1 made car with id 71
+июн. 08, 2020 2:51:32 PM carorder run
+INFO:  worker 0 made car with id 72
+июн. 08, 2020 2:51:33 PM carorder run
+INFO:  worker 1 made car with id 73
+июн. 08, 2020 2:51:34 PM carorder run
+INFO:  worker 0 made car with id 74
+июн. 08, 2020 2:51:35 PM carorder run
+INFO:  worker 1 made car with id 75
+июн. 08, 2020 2:51:35 PM carorder run
+INFO:  worker 0 made car with id 76
+июн. 08, 2020 2:51:36 PM carorder run
+INFO:  worker 1 made car with id 77
+июн. 08, 2020 2:51:37 PM carorder run
+INFO:  worker 0 made car with id 78
+июн. 08, 2020 2:51:38 PM carorder run
+INFO:  worker 1 made car with id 79
+июн. 08, 2020 2:51:39 PM carorder run
+INFO:  worker 0 made car with id 80
+июн. 08, 2020 2:51:40 PM carorder run
+INFO:  worker 1 made car with id 81
+июн. 08, 2020 2:51:41 PM carorder run
+INFO:  worker 0 made car with id 82
+июн. 13, 2020 11:17:48 AM carorder run
+INFO:  worker 0 made car with id 1
+июн. 13, 2020 11:17:49 AM carorder run
+INFO:  worker 1 made car with id 2
+июн. 13, 2020 11:17:50 AM carorder run
+INFO:  worker 0 made car with id 3
+июн. 13, 2020 11:17:51 AM carorder run
+INFO:  worker 1 made car with id 4
+июн. 13, 2020 11:17:51 AM carorder run
+INFO:  worker 0 made car with id 5
+июн. 13, 2020 11:17:52 AM carorder run
+INFO:  worker 1 made car with id 6
+июн. 13, 2020 11:17:53 AM carorder run
+INFO:  worker 0 made car with id 7
+июн. 13, 2020 11:17:53 AM carorder run
+INFO:  worker 1 made car with id 8
+июн. 13, 2020 11:17:54 AM carorder run
+INFO:  worker 0 made car with id 9
+июн. 13, 2020 11:17:55 AM carorder run
+INFO:  worker 1 made car with id 10
+июн. 13, 2020 11:17:55 AM carorder run
+INFO:  worker 0 made car with id 11
+июн. 13, 2020 11:17:56 AM carorder run
+INFO:  worker 2 made car with id 12
+июн. 13, 2020 11:17:57 AM carorder run
+INFO:  worker 0 made car with id 13
+июн. 13, 2020 11:17:58 AM carorder run
+INFO:  worker 2 made car with id 14
+июн. 13, 2020 11:17:58 AM carorder run
+INFO:  worker 0 made car with id 15
+июн. 13, 2020 11:17:59 AM carorder run
+INFO:  worker 2 made car with id 16
+июн. 13, 2020 11:18:00 AM carorder run
+INFO:  worker 0 made car with id 17
+июн. 13, 2020 11:18:00 AM carorder run
+INFO:  worker 2 made car with id 18
+июн. 13, 2020 11:18:01 AM carorder run
+INFO:  worker 0 made car with id 19
+июн. 13, 2020 11:18:02 AM carorder run
+INFO:  worker 2 made car with id 20
+июн. 13, 2020 11:18:02 AM carorder run
+INFO:  worker 0 made car with id 21
+июн. 13, 2020 11:18:03 AM carorder run
+INFO:  worker 2 made car with id 22
+июн. 13, 2020 11:18:04 AM carorder run
+INFO:  worker 0 made car with id 23
+июн. 13, 2020 11:18:05 AM carorder run
+INFO:  worker 2 made car with id 24
+июн. 13, 2020 11:18:05 AM carorder run
+INFO:  worker 0 made car with id 25
+июн. 13, 2020 11:18:06 AM carorder run
+INFO:  worker 2 made car with id 26
+июн. 13, 2020 11:18:07 AM carorder run
+INFO:  worker 0 made car with id 27
+июн. 13, 2020 11:18:07 AM carorder run
+INFO:  worker 2 made car with id 28
+июн. 13, 2020 11:18:08 AM carorder run
+INFO:  worker 0 made car with id 29
+июн. 13, 2020 11:18:08 AM carorder run
+INFO:  worker 2 made car with id 30
+июн. 13, 2020 11:18:09 AM carorder run
+INFO:  worker 0 made car with id 31
+июн. 13, 2020 11:18:09 AM carorder run
+INFO:  worker 2 made car with id 32
+июн. 13, 2020 11:18:10 AM carorder run
+INFO:  worker 0 made car with id 33
+июн. 13, 2020 11:18:10 AM carorder run
+INFO:  worker 2 made car with id 34
+июн. 13, 2020 11:18:10 AM carorder run
+INFO:  worker 0 made car with id 35
+июн. 13, 2020 11:18:11 AM carorder run
+INFO:  worker 2 made car with id 36
+июн. 13, 2020 11:18:11 AM carorder run
+INFO:  worker 0 made car with id 37
+июн. 13, 2020 11:18:12 AM carorder run
+INFO:  worker 2 made car with id 38
+июн. 13, 2020 11:18:12 AM carorder run
+INFO:  worker 0 made car with id 39
+июн. 13, 2020 11:18:12 AM carorder run
+INFO:  worker 2 made car with id 40
+июн. 13, 2020 11:18:12 AM carorder run
+INFO:  worker 0 made car with id 41
+июн. 13, 2020 11:18:13 AM carorder run
+INFO:  worker 2 made car with id 42
+июн. 13, 2020 11:18:13 AM carorder run
+INFO:  worker 0 made car with id 43
+июн. 13, 2020 11:18:13 AM carorder run
+INFO:  worker 2 made car with id 44
+июн. 13, 2020 11:18:13 AM carorder run
+INFO:  worker 0 made car with id 45
+июн. 13, 2020 11:18:14 AM carorder run
+INFO:  worker 2 made car with id 46
+июн. 13, 2020 11:18:14 AM carorder run
+INFO:  worker 0 made car with id 47
+июн. 13, 2020 11:18:14 AM carorder run
+INFO:  worker 1 made car with id 48
+июн. 13, 2020 11:18:14 AM carorder run
+INFO:  worker 2 made car with id 49
+июн. 13, 2020 11:18:16 AM carorder run
+INFO:  worker 1 made car with id 50
+июн. 13, 2020 11:18:17 AM carorder run
+INFO:  worker 2 made car with id 51
+июн. 13, 2020 11:18:18 AM carorder run
+INFO:  worker 1 made car with id 52
+июн. 13, 2020 11:18:20 AM carorder run
+INFO:  worker 2 made car with id 53
+июн. 13, 2020 11:18:21 AM carorder run
+INFO:  worker 1 made car with id 54
+июн. 13, 2020 11:18:23 AM carorder run
+INFO:  worker 2 made car with id 55
+июн. 13, 2020 11:18:24 AM carorder run
+INFO:  worker 1 made car with id 56
+июн. 13, 2020 11:18:26 AM carorder run
+INFO:  worker 2 made car with id 57
+июн. 13, 2020 11:18:27 AM carorder run
+INFO:  worker 1 made car with id 58
+июн. 13, 2020 11:18:29 AM carorder run
+INFO:  worker 2 made car with id 59
+июн. 13, 2020 11:18:30 AM carorder run
+INFO:  worker 1 made car with id 60
+июн. 13, 2020 11:18:31 AM carorder run
+INFO:  worker 2 made car with id 61
+июн. 13, 2020 11:18:32 AM carorder run
+INFO:  worker 1 made car with id 62
+июн. 13, 2020 11:18:32 AM carorder run
+INFO:  worker 2 made car with id 63
+июн. 13, 2020 11:18:32 AM carorder run
+INFO:  worker 1 made car with id 64
+июн. 13, 2020 11:18:33 AM carorder run
+INFO:  worker 2 made car with id 65
+июн. 13, 2020 11:18:33 AM carorder run
+INFO:  worker 1 made car with id 66
+июн. 13, 2020 11:18:33 AM carorder run
+INFO:  worker 2 made car with id 67
+июн. 13, 2020 11:18:34 AM carorder run
+INFO:  worker 1 made car with id 68
+июн. 13, 2020 11:18:34 AM carorder run
+INFO:  worker 2 made car with id 69
+июн. 13, 2020 11:18:35 AM carorder run
+INFO:  worker 1 made car with id 70
+июн. 13, 2020 11:18:35 AM carorder run
+INFO:  worker 2 made car with id 71
+июн. 13, 2020 11:18:35 AM carorder run
+INFO:  worker 1 made car with id 72
+июн. 13, 2020 11:18:36 AM carorder run
+INFO:  worker 2 made car with id 73
+июн. 13, 2020 11:18:36 AM carorder run
+INFO:  worker 1 made car with id 74
+июн. 13, 2020 11:18:36 AM carorder run
+INFO:  worker 2 made car with id 75
+июн. 13, 2020 11:18:37 AM carorder run
+INFO:  worker 1 made car with id 76
+июн. 13, 2020 11:18:37 AM carorder run
+INFO:  worker 2 made car with id 77
+июн. 13, 2020 11:18:38 AM carorder run
+INFO:  worker 1 made car with id 78
+июн. 13, 2020 11:18:38 AM carorder run
+INFO:  worker 2 made car with id 79
+июн. 13, 2020 11:18:38 AM carorder run
+INFO:  worker 1 made car with id 80
+июн. 13, 2020 11:18:39 AM carorder run
+INFO:  worker 2 made car with id 81
+июн. 13, 2020 11:18:39 AM carorder run
+INFO:  worker 1 made car with id 82
+июн. 13, 2020 11:18:39 AM carorder run
+INFO:  worker 2 made car with id 83
+июн. 13, 2020 11:18:40 AM carorder run
+INFO:  worker 1 made car with id 84
+июн. 13, 2020 11:18:40 AM carorder run
+INFO:  worker 2 made car with id 85
+июн. 13, 2020 11:18:41 AM carorder run
+INFO:  worker 1 made car with id 86
+июн. 13, 2020 11:18:41 AM carorder run
+INFO:  worker 2 made car with id 87
+июн. 13, 2020 11:18:41 AM carorder run
+INFO:  worker 1 made car with id 88
+июн. 13, 2020 11:18:42 AM carorder run
+INFO:  worker 2 made car with id 89
+июн. 13, 2020 11:18:42 AM carorder run
+INFO:  worker 1 made car with id 90
+июн. 13, 2020 11:18:42 AM carorder run
+INFO:  worker 2 made car with id 91
+июн. 13, 2020 11:18:43 AM carorder run
+INFO:  worker 1 made car with id 92
+июн. 13, 2020 11:18:43 AM carorder run
+INFO:  worker 2 made car with id 93
+июн. 13, 2020 11:18:44 AM carorder run
+INFO:  worker 1 made car with id 94
+июн. 13, 2020 11:18:45 AM carorder run
+INFO:  worker 2 made car with id 95
+июн. 13, 2020 11:18:45 AM carorder run
+INFO:  worker 1 made car with id 96
+июн. 13, 2020 11:18:46 AM carorder run
+INFO:  worker 2 made car with id 97
+июн. 13, 2020 11:18:47 AM carorder run
+INFO:  worker 1 made car with id 98
+июн. 13, 2020 11:18:47 AM carorder run
+INFO:  worker 2 made car with id 99
+июн. 13, 2020 11:18:48 AM carorder run
+INFO:  worker 1 made car with id 100
+июн. 13, 2020 11:18:49 AM carorder run
+INFO:  worker 2 made car with id 101
+июн. 13, 2020 11:18:50 AM carorder run
+INFO:  worker 1 made car with id 102
+июн. 13, 2020 11:18:50 AM carorder run
+INFO:  worker 2 made car with id 103
+июн. 13, 2020 11:18:51 AM carorder run
+INFO:  worker 1 made car with id 104
+июн. 13, 2020 11:18:52 AM carorder run
+INFO:  worker 2 made car with id 105
+июн. 13, 2020 11:18:53 AM carorder run
+INFO:  worker 1 made car with id 106
+июн. 13, 2020 11:18:53 AM carorder run
+INFO:  worker 2 made car with id 107
+июн. 13, 2020 11:18:54 AM carorder run
+INFO:  worker 1 made car with id 108
+июн. 13, 2020 11:18:55 AM carorder run
+INFO:  worker 2 made car with id 109
+июн. 13, 2020 11:18:56 AM carorder run
+INFO:  worker 1 made car with id 110
+июн. 13, 2020 11:18:56 AM carorder run
+INFO:  worker 2 made car with id 111
+июн. 13, 2020 11:18:57 AM carorder run
+INFO:  worker 1 made car with id 112
+июн. 13, 2020 11:18:58 AM carorder run
+INFO:  worker 2 made car with id 113
+июн. 13, 2020 11:18:59 AM carorder run
+INFO:  worker 1 made car with id 114
+июн. 13, 2020 11:18:59 AM carorder run
+INFO:  worker 2 made car with id 115
+июн. 13, 2020 11:19:00 AM carorder run
+INFO:  worker 1 made car with id 116
+июн. 13, 2020 11:19:01 AM carorder run
+INFO:  worker 2 made car with id 117
+июн. 13, 2020 11:19:02 AM carorder run
+INFO:  worker 1 made car with id 118
+июн. 13, 2020 11:19:02 AM carorder run
+INFO:  worker 2 made car with id 119
+июн. 13, 2020 11:19:03 AM carorder run
+INFO:  worker 1 made car with id 120
+июн. 13, 2020 11:19:04 AM carorder run
+INFO:  worker 2 made car with id 121
+июн. 13, 2020 11:19:05 AM carorder run
+INFO:  worker 1 made car with id 122
+июн. 13, 2020 11:19:05 AM carorder run
+INFO:  worker 2 made car with id 123
+июн. 13, 2020 11:19:06 AM carorder run
+INFO:  worker 1 made car with id 124
+июн. 13, 2020 11:19:07 AM carorder run
+INFO:  worker 2 made car with id 125
+июн. 13, 2020 11:19:08 AM carorder run
+INFO:  worker 1 made car with id 126
+июн. 13, 2020 11:19:08 AM carorder run
+INFO:  worker 2 made car with id 127
+июн. 13, 2020 11:19:09 AM carorder run
+INFO:  worker 1 made car with id 128
+июн. 13, 2020 11:19:10 AM carorder run
+INFO:  worker 2 made car with id 129
+июн. 13, 2020 11:19:10 AM carorder run
+INFO:  worker 1 made car with id 130
+июн. 13, 2020 11:19:11 AM carorder run
+INFO:  worker 2 made car with id 131
+июн. 13, 2020 11:19:12 AM carorder run
+INFO:  worker 1 made car with id 132
+июн. 13, 2020 11:19:13 AM carorder run
+INFO:  worker 2 made car with id 133
+июн. 13, 2020 11:19:13 AM carorder run
+INFO:  worker 1 made car with id 134
+июн. 13, 2020 11:19:14 AM carorder run
+INFO:  worker 2 made car with id 135
+июн. 13, 2020 11:19:15 AM carorder run
+INFO:  worker 1 made car with id 136
+июн. 13, 2020 11:19:16 AM carorder run
+INFO:  worker 2 made car with id 137
+июн. 13, 2020 11:19:16 AM carorder run
+INFO:  worker 1 made car with id 138
+июн. 13, 2020 11:19:17 AM carorder run
+INFO:  worker 2 made car with id 139
+июн. 13, 2020 11:19:18 AM carorder run
+INFO:  worker 1 made car with id 140
+июн. 13, 2020 11:19:19 AM carorder run
+INFO:  worker 2 made car with id 141
+июн. 13, 2020 11:19:19 AM carorder run
+INFO:  worker 1 made car with id 142
+июн. 13, 2020 11:19:20 AM carorder run
+INFO:  worker 2 made car with id 143
+июн. 13, 2020 11:19:21 AM carorder run
+INFO:  worker 1 made car with id 144
+июн. 13, 2020 11:19:22 AM carorder run
+INFO:  worker 2 made car with id 145
+июн. 13, 2020 11:19:22 AM carorder run
+INFO:  worker 1 made car with id 146
+июн. 13, 2020 11:19:23 AM carorder run
+INFO:  worker 2 made car with id 147
+июн. 13, 2020 11:19:24 AM carorder run
+INFO:  worker 1 made car with id 148
+июн. 13, 2020 11:19:25 AM carorder run
+INFO:  worker 2 made car with id 149
+июн. 13, 2020 11:19:25 AM carorder run
+INFO:  worker 1 made car with id 150
+июн. 13, 2020 11:19:26 AM carorder run
+INFO:  worker 2 made car with id 151
+июн. 13, 2020 11:19:27 AM carorder run
+INFO:  worker 1 made car with id 152
+июн. 13, 2020 11:19:28 AM carorder run
+INFO:  worker 2 made car with id 153
+июн. 13, 2020 11:19:28 AM carorder run
+INFO:  worker 1 made car with id 154
+июн. 13, 2020 11:19:29 AM carorder run
+INFO:  worker 2 made car with id 155
+июн. 13, 2020 11:19:30 AM carorder run
+INFO:  worker 1 made car with id 156
+июн. 13, 2020 11:19:31 AM carorder run
+INFO:  worker 2 made car with id 157
+июн. 13, 2020 11:19:31 AM carorder run
+INFO:  worker 1 made car with id 158
+июн. 13, 2020 11:19:32 AM carorder run
+INFO:  worker 2 made car with id 159
+июн. 13, 2020 11:19:33 AM carorder run
+INFO:  worker 1 made car with id 160
+июн. 13, 2020 11:19:34 AM carorder run
+INFO:  worker 2 made car with id 161
+июн. 13, 2020 11:19:34 AM carorder run
+INFO:  worker 1 made car with id 162
+июн. 13, 2020 11:19:35 AM carorder run
+INFO:  worker 2 made car with id 163
+июн. 13, 2020 11:19:36 AM carorder run
+INFO:  worker 1 made car with id 164
+июн. 13, 2020 11:19:36 AM carorder run
+INFO:  worker 2 made car with id 165
+июн. 13, 2020 11:19:37 AM carorder run
+INFO:  worker 1 made car with id 166
+июн. 13, 2020 11:19:38 AM carorder run
+INFO:  worker 2 made car with id 167
+июн. 13, 2020 11:19:39 AM carorder run
+INFO:  worker 1 made car with id 168
+июн. 13, 2020 11:19:39 AM carorder run
+INFO:  worker 2 made car with id 169
+июн. 13, 2020 11:19:40 AM carorder run
+INFO:  worker 1 made car with id 170
+июн. 13, 2020 11:19:41 AM carorder run
+INFO:  worker 2 made car with id 171
+июн. 13, 2020 11:19:42 AM carorder run
+INFO:  worker 1 made car with id 172
+июн. 13, 2020 11:19:42 AM carorder run
+INFO:  worker 2 made car with id 173
+июн. 13, 2020 11:19:43 AM carorder run
+INFO:  worker 1 made car with id 174
+июн. 17, 2020 12:33:52 PM carorder run
+INFO:  worker 0 made car with id 1
+июн. 17, 2020 12:33:53 PM carorder run
+INFO:  worker 2 made car with id 2
+июн. 17, 2020 12:33:54 PM carorder run
+INFO:  worker 0 made car with id 3
+июн. 17, 2020 12:33:54 PM carorder run
+INFO:  worker 2 made car with id 4
+июн. 17, 2020 12:33:55 PM carorder run
+INFO:  worker 0 made car with id 5
+июн. 17, 2020 12:33:56 PM carorder run
+INFO:  worker 2 made car with id 6
+июн. 17, 2020 12:33:57 PM carorder run
+INFO:  worker 0 made car with id 7
+июн. 17, 2020 12:33:57 PM carorder run
+INFO:  worker 2 made car with id 8
+июн. 17, 2020 12:33:58 PM carorder run
+INFO:  worker 0 made car with id 9
+июн. 17, 2020 12:33:59 PM carorder run
+INFO:  worker 1 made car with id 10
+июн. 17, 2020 12:33:59 PM carorder run
+INFO:  worker 0 made car with id 11
+июн. 17, 2020 12:45:11 PM carorder run
+INFO:  worker 0 made car with id 1
+июн. 17, 2020 12:45:12 PM carorder run
+INFO:  worker 2 made car with id 2
+июн. 17, 2020 12:45:12 PM carorder run
+INFO:  worker 1 made car with id 3
+июн. 17, 2020 1:12:48 PM carorder run
+INFO:  worker 1 made car with id 1
+июн. 17, 2020 1:25:28 PM carorder run
+INFO:  worker 0 made car with id 1
+июн. 17, 2020 1:25:29 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 17, 2020 1:25:29 PM carorder run
+INFO:  worker 2 made car with id 3
+июн. 17, 2020 1:28:27 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 17, 2020 1:29:26 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 17, 2020 1:29:27 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 17, 2020 1:29:27 PM carorder run
+INFO:  worker 0 made car with id 3
+июн. 17, 2020 1:34:29 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 17, 2020 1:34:30 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 17, 2020 1:34:31 PM carorder run
+INFO:  worker 0 made car with id 3
+июн. 17, 2020 1:35:22 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 17, 2020 1:35:22 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 17, 2020 1:35:23 PM carorder run
+INFO:  worker 0 made car with id 3
+июн. 17, 2020 2:40:35 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 17, 2020 2:40:35 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 17, 2020 2:40:35 PM carorder run
+INFO:  worker 0 made car with id 3
+июн. 17, 2020 2:40:36 PM carorder run
+INFO:  worker 0 made car with id 4
+июн. 17, 2020 2:47:22 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 17, 2020 2:47:22 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 17, 2020 2:47:23 PM carorder run
+INFO:  worker 2 made car with id 3
+июн. 17, 2020 2:47:24 PM carorder run
+INFO:  worker 1 made car with id 4
+июн. 17, 2020 2:47:24 PM carorder run
+INFO:  worker 2 made car with id 5
+июн. 17, 2020 2:47:25 PM carorder run
+INFO:  worker 1 made car with id 6
+июн. 17, 2020 2:47:26 PM carorder run
+INFO:  worker 2 made car with id 7
+июн. 17, 2020 2:47:26 PM carorder run
+INFO:  worker 1 made car with id 8
+июн. 17, 2020 2:47:27 PM carorder run
+INFO:  worker 2 made car with id 9
+июн. 17, 2020 2:47:28 PM carorder run
+INFO:  worker 1 made car with id 10
+июн. 17, 2020 2:47:29 PM carorder run
+INFO:  worker 2 made car with id 11
+июн. 17, 2020 2:47:29 PM carorder run
+INFO:  worker 1 made car with id 12
+июн. 17, 2020 2:47:30 PM carorder run
+INFO:  worker 0 made car with id 13
+июн. 17, 2020 2:47:31 PM carorder run
+INFO:  worker 1 made car with id 14
+июн. 17, 2020 2:47:31 PM carorder run
+INFO:  worker 0 made car with id 15
+июн. 17, 2020 2:47:32 PM carorder run
+INFO:  worker 1 made car with id 16
+июн. 17, 2020 2:47:33 PM carorder run
+INFO:  worker 0 made car with id 17
+июн. 17, 2020 2:47:33 PM carorder run
+INFO:  worker 1 made car with id 18
+июн. 17, 2020 2:47:34 PM carorder run
+INFO:  worker 0 made car with id 19
+июн. 17, 2020 2:47:35 PM carorder run
+INFO:  worker 1 made car with id 20
+июн. 17, 2020 2:47:36 PM carorder run
+INFO:  worker 0 made car with id 21
+июн. 17, 2020 2:47:36 PM carorder run
+INFO:  worker 2 made car with id 22
+июн. 17, 2020 2:47:37 PM carorder run
+INFO:  worker 0 made car with id 23
+июн. 17, 2020 2:47:38 PM carorder run
+INFO:  worker 2 made car with id 24
+июн. 17, 2020 2:47:38 PM carorder run
+INFO:  worker 1 made car with id 25
+июн. 17, 2020 2:47:39 PM carorder run
+INFO:  worker 2 made car with id 26
+июн. 17, 2020 2:47:40 PM carorder run
+INFO:  worker 1 made car with id 27
+июн. 17, 2020 2:47:41 PM carorder run
+INFO:  worker 2 made car with id 28
+июн. 17, 2020 2:47:41 PM carorder run
+INFO:  worker 1 made car with id 29
+июн. 17, 2020 2:47:42 PM carorder run
+INFO:  worker 2 made car with id 30
+июн. 17, 2020 2:47:43 PM carorder run
+INFO:  worker 1 made car with id 31
+июн. 17, 2020 2:47:44 PM carorder run
+INFO:  worker 2 made car with id 32
+июн. 17, 2020 2:47:44 PM carorder run
+INFO:  worker 1 made car with id 33
+июн. 17, 2020 2:47:45 PM carorder run
+INFO:  worker 2 made car with id 34
+июн. 17, 2020 2:47:46 PM carorder run
+INFO:  worker 1 made car with id 35
+июн. 17, 2020 2:47:47 PM carorder run
+INFO:  worker 2 made car with id 36
+июн. 17, 2020 2:47:47 PM carorder run
+INFO:  worker 1 made car with id 37
+июн. 17, 2020 2:47:48 PM carorder run
+INFO:  worker 2 made car with id 38
+июн. 17, 2020 2:47:49 PM carorder run
+INFO:  worker 1 made car with id 39
+июн. 17, 2020 2:47:50 PM carorder run
+INFO:  worker 2 made car with id 40
+июн. 17, 2020 2:47:50 PM carorder run
+INFO:  worker 0 made car with id 41
+июн. 17, 2020 2:47:51 PM carorder run
+INFO:  worker 1 made car with id 42
+июн. 17, 2020 2:47:52 PM carorder run
+INFO:  worker 0 made car with id 43
+июн. 17, 2020 2:50:00 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 17, 2020 2:50:01 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 17, 2020 2:50:02 PM carorder run
+INFO:  worker 2 made car with id 3
+июн. 17, 2020 2:50:03 PM carorder run
+INFO:  worker 1 made car with id 4
+июн. 17, 2020 2:50:03 PM carorder run
+INFO:  worker 2 made car with id 5
+июн. 17, 2020 2:50:04 PM carorder run
+INFO:  worker 1 made car with id 6
+июн. 17, 2020 2:50:05 PM carorder run
+INFO:  worker 2 made car with id 7
+июн. 17, 2020 2:50:05 PM carorder run
+INFO:  worker 1 made car with id 8
+июн. 17, 2020 2:50:05 PM carorder run
+INFO:  worker 2 made car with id 9
+июн. 17, 2020 2:50:05 PM carorder run
+INFO:  worker 1 made car with id 10
+июн. 17, 2020 2:50:05 PM carorder run
+INFO:  worker 2 made car with id 11
+июн. 17, 2020 2:50:06 PM carorder run
+INFO:  worker 0 made car with id 12
+июн. 17, 2020 2:50:06 PM carorder run
+INFO:  worker 2 made car with id 13
+июн. 17, 2020 2:50:06 PM carorder run
+INFO:  worker 0 made car with id 14
+июн. 17, 2020 2:50:06 PM carorder run
+INFO:  worker 2 made car with id 15
+июн. 17, 2020 2:50:06 PM carorder run
+INFO:  worker 0 made car with id 16
+июн. 17, 2020 2:50:06 PM carorder run
+INFO:  worker 1 made car with id 17
+июн. 17, 2020 2:50:07 PM carorder run
+INFO:  worker 0 made car with id 18
+июн. 17, 2020 2:50:07 PM carorder run
+INFO:  worker 1 made car with id 19
+июн. 17, 2020 2:50:07 PM carorder run
+INFO:  worker 0 made car with id 20
+июн. 17, 2020 2:50:07 PM carorder run
+INFO:  worker 1 made car with id 21
+июн. 17, 2020 2:50:08 PM carorder run
+INFO:  worker 2 made car with id 22
+июн. 17, 2020 2:50:08 PM carorder run
+INFO:  worker 1 made car with id 23
+июн. 17, 2020 2:50:08 PM carorder run
+INFO:  worker 2 made car with id 24
+июн. 17, 2020 2:50:08 PM carorder run
+INFO:  worker 1 made car with id 25
+июн. 17, 2020 2:50:09 PM carorder run
+INFO:  worker 2 made car with id 26
+июн. 17, 2020 2:50:09 PM carorder run
+INFO:  worker 1 made car with id 27
+июн. 17, 2020 2:50:09 PM carorder run
+INFO:  worker 2 made car with id 28
+июн. 17, 2020 2:50:10 PM carorder run
+INFO:  worker 1 made car with id 29
+июн. 17, 2020 2:50:10 PM carorder run
+INFO:  worker 2 made car with id 30
+июн. 17, 2020 2:50:10 PM carorder run
+INFO:  worker 1 made car with id 31
+июн. 17, 2020 2:50:10 PM carorder run
+INFO:  worker 2 made car with id 32
+июн. 17, 2020 2:50:11 PM carorder run
+INFO:  worker 0 made car with id 33
+июн. 17, 2020 2:50:11 PM carorder run
+INFO:  worker 2 made car with id 34
+июн. 17, 2020 2:50:11 PM carorder run
+INFO:  worker 0 made car with id 35
+июн. 17, 2020 2:50:11 PM carorder run
+INFO:  worker 2 made car with id 36
+июн. 17, 2020 2:50:12 PM carorder run
+INFO:  worker 0 made car with id 37
+июн. 17, 2020 2:50:12 PM carorder run
+INFO:  worker 2 made car with id 38
+июн. 17, 2020 2:50:12 PM carorder run
+INFO:  worker 0 made car with id 39
+июн. 17, 2020 2:50:12 PM carorder run
+INFO:  worker 2 made car with id 40
+июн. 17, 2020 2:50:13 PM carorder run
+INFO:  worker 0 made car with id 41
+июн. 17, 2020 2:50:13 PM carorder run
+INFO:  worker 1 made car with id 42
+июн. 17, 2020 2:50:13 PM carorder run
+INFO:  worker 0 made car with id 43
+июн. 17, 2020 2:50:13 PM carorder run
+INFO:  worker 1 made car with id 44
+июн. 17, 2020 2:50:14 PM carorder run
+INFO:  worker 0 made car with id 45
+июн. 17, 2020 2:50:14 PM carorder run
+INFO:  worker 2 made car with id 46
+июн. 17, 2020 2:50:14 PM carorder run
+INFO:  worker 0 made car with id 47
+июн. 17, 2020 2:50:14 PM carorder run
+INFO:  worker 2 made car with id 48
+июн. 17, 2020 2:50:15 PM carorder run
+INFO:  worker 0 made car with id 49
+июн. 17, 2020 2:50:15 PM carorder run
+INFO:  worker 1 made car with id 50
+июн. 17, 2020 2:50:15 PM carorder run
+INFO:  worker 0 made car with id 51
+июн. 17, 2020 2:50:15 PM carorder run
+INFO:  worker 1 made car with id 52
+июн. 17, 2020 2:50:16 PM carorder run
+INFO:  worker 0 made car with id 53
+июн. 17, 2020 2:50:16 PM carorder run
+INFO:  worker 1 made car with id 54
+июн. 17, 2020 2:50:16 PM carorder run
+INFO:  worker 0 made car with id 55
+июн. 17, 2020 2:50:17 PM carorder run
+INFO:  worker 1 made car with id 56
+июн. 17, 2020 2:50:17 PM carorder run
+INFO:  worker 0 made car with id 57
+июн. 17, 2020 2:50:17 PM carorder run
+INFO:  worker 1 made car with id 58
+июн. 17, 2020 2:50:17 PM carorder run
+INFO:  worker 0 made car with id 59
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 1 made car with id 60
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 0 made car with id 61
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 1 made car with id 62
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 0 made car with id 63
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 1 made car with id 64
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 0 made car with id 65
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 1 made car with id 66
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 0 made car with id 67
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 1 made car with id 68
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 0 made car with id 69
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 1 made car with id 70
+июн. 17, 2020 2:50:18 PM carorder run
+INFO:  worker 0 made car with id 71
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 1 made car with id 72
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 0 made car with id 73
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 1 made car with id 74
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 0 made car with id 75
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 1 made car with id 76
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 0 made car with id 77
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 1 made car with id 78
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 0 made car with id 79
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 1 made car with id 80
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 0 made car with id 81
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 1 made car with id 82
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 0 made car with id 83
+июн. 17, 2020 2:50:19 PM carorder run
+INFO:  worker 1 made car with id 84
+июн. 17, 2020 2:50:20 PM carorder run
+INFO:  worker 0 made car with id 85
+июн. 17, 2020 2:50:20 PM carorder run
+INFO:  worker 1 made car with id 86
+июн. 17, 2020 2:50:20 PM carorder run
+INFO:  worker 0 made car with id 87
+июн. 17, 2020 2:50:20 PM carorder run
+INFO:  worker 1 made car with id 88
+июн. 17, 2020 2:50:20 PM carorder run
+INFO:  worker 2 made car with id 89
+июн. 17, 2020 2:50:20 PM carorder run
+INFO:  worker 1 made car with id 90
+июн. 17, 2020 2:50:20 PM carorder run
+INFO:  worker 0 made car with id 91
+июн. 17, 2020 2:50:21 PM carorder run
+INFO:  worker 1 made car with id 92
+июн. 17, 2020 2:50:21 PM carorder run
+INFO:  worker 1 made car with id 93
+июн. 17, 2020 2:50:21 PM carorder run
+INFO:  worker 0 made car with id 94
+июн. 17, 2020 2:50:21 PM carorder run
+INFO:  worker 0 made car with id 95
+июн. 17, 2020 2:50:22 PM carorder run
+INFO:  worker 0 made car with id 96
+июн. 17, 2020 2:50:22 PM carorder run
+INFO:  worker 1 made car with id 97
+июн. 17, 2020 2:50:23 PM carorder run
+INFO:  worker 2 made car with id 98
+июн. 17, 2020 2:50:23 PM carorder run
+INFO:  worker 2 made car with id 99
+июн. 17, 2020 2:50:23 PM carorder run
+INFO:  worker 2 made car with id 100
+июн. 17, 2020 2:50:24 PM carorder run
+INFO:  worker 2 made car with id 101
+июн. 17, 2020 2:50:24 PM carorder run
+INFO:  worker 1 made car with id 102
+июн. 17, 2020 2:50:24 PM carorder run
+INFO:  worker 0 made car with id 103
+июн. 17, 2020 2:50:25 PM carorder run
+INFO:  worker 2 made car with id 104
+июн. 17, 2020 2:50:25 PM carorder run
+INFO:  worker 0 made car with id 105
+июн. 17, 2020 2:53:08 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 17, 2020 2:53:09 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 17, 2020 2:53:10 PM carorder run
+INFO:  worker 2 made car with id 3
+июн. 17, 2020 2:53:10 PM carorder run
+INFO:  worker 1 made car with id 4
+июн. 17, 2020 2:53:11 PM carorder run
+INFO:  worker 2 made car with id 5
+июн. 17, 2020 2:53:12 PM carorder run
+INFO:  worker 1 made car with id 6
+июн. 17, 2020 2:53:13 PM carorder run
+INFO:  worker 2 made car with id 7
+июн. 17, 2020 2:53:13 PM carorder run
+INFO:  worker 1 made car with id 8
+июн. 17, 2020 2:53:14 PM carorder run
+INFO:  worker 2 made car with id 9
+июн. 17, 2020 2:53:14 PM carorder run
+INFO:  worker 0 made car with id 10
+июн. 17, 2020 2:53:14 PM carorder run
+INFO:  worker 2 made car with id 11
+июн. 17, 2020 2:53:15 PM carorder run
+INFO:  worker 0 made car with id 12
+июн. 17, 2020 2:53:15 PM carorder run
+INFO:  worker 1 made car with id 13
+июн. 17, 2020 2:53:15 PM carorder run
+INFO:  worker 0 made car with id 14
+июн. 17, 2020 2:53:15 PM carorder run
+INFO:  worker 1 made car with id 15
+июн. 17, 2020 2:53:15 PM carorder run
+INFO:  worker 0 made car with id 16
+июн. 17, 2020 2:53:16 PM carorder run
+INFO:  worker 1 made car with id 17
+июн. 17, 2020 2:53:16 PM carorder run
+INFO:  worker 0 made car with id 18
+июн. 17, 2020 2:53:16 PM carorder run
+INFO:  worker 1 made car with id 19
+июн. 17, 2020 2:53:16 PM carorder run
+INFO:  worker 0 made car with id 20
+июн. 17, 2020 2:53:16 PM carorder run
+INFO:  worker 2 made car with id 21
+июн. 17, 2020 2:53:17 PM carorder run
+INFO:  worker 0 made car with id 22
+июн. 17, 2020 2:53:17 PM carorder run
+INFO:  worker 2 made car with id 23
+июн. 17, 2020 2:53:17 PM carorder run
+INFO:  worker 0 made car with id 24
+июн. 17, 2020 2:53:17 PM carorder run
+INFO:  worker 2 made car with id 25
+июн. 17, 2020 2:53:18 PM carorder run
+INFO:  worker 0 made car with id 26
+июн. 17, 2020 2:53:18 PM carorder run
+INFO:  worker 1 made car with id 27
+июн. 17, 2020 2:53:18 PM carorder run
+INFO:  worker 0 made car with id 28
+июн. 17, 2020 2:53:18 PM carorder run
+INFO:  worker 1 made car with id 29
+июн. 17, 2020 2:53:19 PM carorder run
+INFO:  worker 0 made car with id 30
+июн. 17, 2020 2:53:19 PM carorder run
+INFO:  worker 1 made car with id 31
+июн. 17, 2020 2:53:19 PM carorder run
+INFO:  worker 0 made car with id 32
+июн. 17, 2020 2:53:19 PM carorder run
+INFO:  worker 2 made car with id 33
+июн. 17, 2020 2:53:20 PM carorder run
+INFO:  worker 1 made car with id 34
+июн. 17, 2020 2:53:20 PM carorder run
+INFO:  worker 2 made car with id 35
+июн. 17, 2020 2:53:20 PM carorder run
+INFO:  worker 1 made car with id 36
+июн. 17, 2020 2:53:21 PM carorder run
+INFO:  worker 2 made car with id 37
+июн. 17, 2020 2:53:21 PM carorder run
+INFO:  worker 1 made car with id 38
+июн. 17, 2020 2:53:22 PM carorder run
+INFO:  worker 2 made car with id 39
+июн. 17, 2020 2:53:22 PM carorder run
+INFO:  worker 1 made car with id 40
+июн. 17, 2020 2:53:23 PM carorder run
+INFO:  worker 2 made car with id 41
+июн. 17, 2020 2:53:23 PM carorder run
+INFO:  worker 0 made car with id 42
+июн. 17, 2020 2:53:23 PM carorder run
+INFO:  worker 2 made car with id 43
+июн. 17, 2020 2:53:24 PM carorder run
+INFO:  worker 0 made car with id 44
+июн. 17, 2020 2:53:24 PM carorder run
+INFO:  worker 2 made car with id 45
+июн. 17, 2020 2:53:25 PM carorder run
+INFO:  worker 0 made car with id 46
+июн. 17, 2020 2:53:25 PM carorder run
+INFO:  worker 1 made car with id 47
+июн. 17, 2020 2:53:25 PM carorder run
+INFO:  worker 0 made car with id 48
+июн. 17, 2020 2:53:26 PM carorder run
+INFO:  worker 1 made car with id 49
+июн. 17, 2020 2:53:26 PM carorder run
+INFO:  worker 0 made car with id 50
+июн. 17, 2020 2:53:27 PM carorder run
+INFO:  worker 1 made car with id 51
+июн. 17, 2020 2:53:27 PM carorder run
+INFO:  worker 0 made car with id 52
+июн. 17, 2020 2:53:28 PM carorder run
+INFO:  worker 1 made car with id 53
+июн. 17, 2020 2:53:28 PM carorder run
+INFO:  worker 0 made car with id 54
+июн. 17, 2020 2:53:28 PM carorder run
+INFO:  worker 1 made car with id 55
+июн. 17, 2020 2:53:29 PM carorder run
+INFO:  worker 0 made car with id 56
+июн. 17, 2020 2:53:29 PM carorder run
+INFO:  worker 2 made car with id 57
+июн. 17, 2020 2:53:30 PM carorder run
+INFO:  worker 0 made car with id 58
+июн. 17, 2020 2:53:30 PM carorder run
+INFO:  worker 1 made car with id 59
+июн. 17, 2020 2:53:30 PM carorder run
+INFO:  worker 0 made car with id 60
+июн. 17, 2020 2:53:31 PM carorder run
+INFO:  worker 1 made car with id 61
+июн. 17, 2020 2:53:31 PM carorder run
+INFO:  worker 0 made car with id 62
+июн. 17, 2020 4:08:18 PM carorder run
+INFO:  worker 2 made car with id 1
+июн. 17, 2020 4:08:19 PM carorder run
+INFO:  worker 1 made car with id 2
+июн. 17, 2020 4:08:20 PM carorder run
+INFO:  worker 2 made car with id 3
+июн. 17, 2020 4:08:20 PM carorder run
+INFO:  worker 1 made car with id 4
+июн. 17, 2020 4:08:21 PM carorder run
+INFO:  worker 2 made car with id 5
+июн. 17, 2020 4:08:22 PM carorder run
+INFO:  worker 1 made car with id 6
+июн. 17, 2020 4:08:22 PM carorder run
+INFO:  worker 2 made car with id 7
+июн. 17, 2020 4:08:23 PM carorder run
+INFO:  worker 0 made car with id 8
+июн. 17, 2020 4:08:24 PM carorder run
+INFO:  worker 2 made car with id 9
+июн. 17, 2020 4:08:25 PM carorder run
+INFO:  worker 0 made car with id 10
+июн. 17, 2020 4:08:25 PM carorder run
+INFO:  worker 2 made car with id 11
+июн. 17, 2020 4:08:25 PM carorder run
+INFO:  worker 0 made car with id 12
+июн. 17, 2020 4:08:26 PM carorder run
+INFO:  worker 2 made car with id 13
+июн. 17, 2020 4:08:26 PM carorder run
+INFO:  worker 0 made car with id 14
+июн. 17, 2020 4:08:26 PM carorder run
+INFO:  worker 2 made car with id 15
+июн. 17, 2020 4:08:26 PM carorder run
+INFO:  worker 1 made car with id 16
+июн. 17, 2020 4:08:27 PM carorder run
+INFO:  worker 2 made car with id 17
+июн. 17, 2020 4:08:27 PM carorder run
+INFO:  worker 1 made car with id 18
+июн. 17, 2020 4:08:27 PM carorder run
+INFO:  worker 2 made car with id 19
+июн. 17, 2020 4:08:27 PM carorder run
+INFO:  worker 1 made car with id 20
+июн. 17, 2020 4:08:28 PM carorder run
+INFO:  worker 2 made car with id 21
+июн. 17, 2020 4:08:28 PM carorder run
+INFO:  worker 0 made car with id 22
+июн. 17, 2020 4:08:28 PM carorder run
+INFO:  worker 2 made car with id 23
+июн. 17, 2020 4:08:28 PM carorder run
+INFO:  worker 0 made car with id 24
+июн. 17, 2020 4:08:29 PM carorder run
+INFO:  worker 2 made car with id 25
+июн. 17, 2020 4:08:29 PM carorder run
+INFO:  worker 1 made car with id 26
+июн. 17, 2020 4:08:29 PM carorder run
+INFO:  worker 2 made car with id 27
+июн. 17, 2020 4:08:29 PM carorder run
+INFO:  worker 1 made car with id 28
+июн. 17, 2020 4:08:30 PM carorder run
+INFO:  worker 0 made car with id 29
+июн. 17, 2020 4:08:30 PM carorder run
+INFO:  worker 1 made car with id 30
+июн. 17, 2020 4:08:30 PM carorder run
+INFO:  worker 0 made car with id 31
+июн. 17, 2020 4:08:30 PM carorder run
+INFO:  worker 1 made car with id 32
+июн. 17, 2020 4:08:31 PM carorder run
+INFO:  worker 0 made car with id 33
+июн. 17, 2020 4:08:31 PM carorder run
+INFO:  worker 1 made car with id 34
+июн. 17, 2020 4:08:31 PM carorder run
+INFO:  worker 0 made car with id 35
+июн. 17, 2020 4:08:31 PM carorder run
+INFO:  worker 1 made car with id 36
+июн. 17, 2020 4:08:31 PM carorder run
+INFO:  worker 0 made car with id 37
+июн. 17, 2020 4:08:32 PM carorder run
+INFO:  worker 1 made car with id 38
+июн. 17, 2020 4:08:32 PM carorder run
+INFO:  worker 0 made car with id 39
+июн. 17, 2020 4:08:32 PM carorder run
+INFO:  worker 1 made car with id 40
+июн. 17, 2020 4:08:32 PM carorder run
+INFO:  worker 0 made car with id 41
+июн. 17, 2020 4:08:33 PM carorder run
+INFO:  worker 2 made car with id 42
+июн. 17, 2020 4:08:33 PM carorder run
+INFO:  worker 0 made car with id 43
+июн. 17, 2020 4:08:33 PM carorder run
+INFO:  worker 2 made car with id 44
+июн. 17, 2020 4:08:33 PM carorder run
+INFO:  worker 0 made car with id 45
+июн. 17, 2020 4:08:34 PM carorder run
+INFO:  worker 2 made car with id 46
+июн. 17, 2020 4:08:34 PM carorder run
+INFO:  worker 0 made car with id 47
+июн. 17, 2020 4:08:34 PM carorder run
+INFO:  worker 2 made car with id 48
+июн. 17, 2020 4:08:34 PM carorder run
+INFO:  worker 0 made car with id 49
+июн. 17, 2020 4:08:34 PM carorder run
+INFO:  worker 2 made car with id 50
+июн. 17, 2020 4:08:35 PM carorder run
+INFO:  worker 1 made car with id 51
+июн. 17, 2020 4:08:35 PM carorder run
+INFO:  worker 2 made car with id 52
+июн. 17, 2020 4:08:35 PM carorder run
+INFO:  worker 1 made car with id 53
+июн. 17, 2020 4:08:35 PM carorder run
+INFO:  worker 2 made car with id 54
+июн. 17, 2020 4:08:36 PM carorder run
+INFO:  worker 1 made car with id 55
+июн. 17, 2020 4:08:36 PM carorder run
+INFO:  worker 2 made car with id 56
+июн. 17, 2020 4:08:36 PM carorder run
+INFO:  worker 1 made car with id 57
+июн. 17, 2020 4:08:36 PM carorder run
+INFO:  worker 2 made car with id 58
+июн. 17, 2020 4:08:36 PM carorder run
+INFO:  worker 1 made car with id 59
+июн. 17, 2020 4:08:37 PM carorder run
+INFO:  worker 2 made car with id 60
+июн. 17, 2020 4:08:37 PM carorder run
+INFO:  worker 1 made car with id 61
+июн. 17, 2020 4:08:37 PM carorder run
+INFO:  worker 2 made car with id 62
+июн. 17, 2020 4:08:37 PM carorder run
+INFO:  worker 1 made car with id 63
+июн. 17, 2020 4:08:38 PM carorder run
+INFO:  worker 2 made car with id 64
+июн. 17, 2020 4:08:38 PM carorder run
+INFO:  worker 1 made car with id 65
+июн. 17, 2020 4:08:38 PM carorder run
+INFO:  worker 2 made car with id 66
+июн. 17, 2020 4:08:38 PM carorder run
+INFO:  worker 1 made car with id 67
+июн. 17, 2020 4:08:39 PM carorder run
+INFO:  worker 2 made car with id 68
+июн. 17, 2020 4:08:39 PM carorder run
+INFO:  worker 1 made car with id 69
+июн. 17, 2020 4:08:39 PM carorder run
+INFO:  worker 2 made car with id 70
+июн. 17, 2020 4:08:39 PM carorder run
+INFO:  worker 0 made car with id 71
+июн. 17, 2020 4:08:39 PM carorder run
+INFO:  worker 2 made car with id 72
+июн. 17, 2020 4:08:40 PM carorder run
+INFO:  worker 1 made car with id 73
+июн. 17, 2020 4:08:40 PM carorder run
+INFO:  worker 2 made car with id 74
+июн. 17, 2020 4:08:40 PM carorder run
+INFO:  worker 1 made car with id 75
+июн. 17, 2020 4:08:40 PM carorder run
+INFO:  worker 2 made car with id 76
+июн. 17, 2020 4:08:41 PM carorder run
+INFO:  worker 1 made car with id 77
+июн. 17, 2020 4:08:41 PM carorder run
+INFO:  worker 2 made car with id 78
+июн. 17, 2020 4:08:41 PM carorder run
+INFO:  worker 1 made car with id 79
+июн. 17, 2020 4:08:41 PM carorder run
+INFO:  worker 2 made car with id 80
+июн. 17, 2020 4:08:41 PM carorder run
+INFO:  worker 1 made car with id 81
+июн. 17, 2020 4:08:42 PM carorder run
+INFO:  worker 2 made car with id 82
+июн. 17, 2020 4:08:42 PM carorder run
+INFO:  worker 1 made car with id 83
+июн. 17, 2020 4:08:42 PM carorder run
+INFO:  worker 2 made car with id 84
+июн. 17, 2020 4:08:42 PM carorder run
+INFO:  worker 1 made car with id 85
+июн. 17, 2020 4:08:43 PM carorder run
+INFO:  worker 2 made car with id 86
+июн. 17, 2020 4:08:43 PM carorder run
+INFO:  worker 1 made car with id 87
+июн. 17, 2020 4:08:43 PM carorder run
+INFO:  worker 2 made car with id 88
+июн. 17, 2020 4:08:43 PM carorder run
+INFO:  worker 1 made car with id 89
+июн. 17, 2020 4:08:44 PM carorder run
+INFO:  worker 2 made car with id 90
+июн. 17, 2020 4:08:44 PM carorder run
+INFO:  worker 1 made car with id 91
+июн. 17, 2020 4:08:44 PM carorder run
+INFO:  worker 2 made car with id 92
+июн. 17, 2020 4:08:44 PM carorder run
+INFO:  worker 1 made car with id 93
+июн. 17, 2020 4:08:44 PM carorder run
+INFO:  worker 2 made car with id 94
+июн. 17, 2020 4:08:45 PM carorder run
+INFO:  worker 0 made car with id 95
+июн. 17, 2020 4:08:45 PM carorder run
+INFO:  worker 2 made car with id 96
+июн. 17, 2020 4:08:45 PM carorder run
+INFO:  worker 0 made car with id 97
+июн. 17, 2020 4:08:45 PM carorder run
+INFO:  worker 2 made car with id 98
+июн. 17, 2020 4:08:46 PM carorder run
+INFO:  worker 0 made car with id 99
+июн. 17, 2020 4:08:46 PM carorder run
+INFO:  worker 2 made car with id 100
+июн. 17, 2020 4:08:46 PM carorder run
+INFO:  worker 0 made car with id 101
+июн. 17, 2020 4:08:46 PM carorder run
+INFO:  worker 2 made car with id 102
+июн. 17, 2020 4:08:46 PM carorder run
+INFO:  worker 0 made car with id 103
+июн. 17, 2020 4:08:47 PM carorder run
+INFO:  worker 1 made car with id 104
+июн. 17, 2020 4:08:47 PM carorder run
+INFO:  worker 0 made car with id 105
+июн. 17, 2020 4:08:47 PM carorder run
+INFO:  worker 1 made car with id 106
+июн. 17, 2020 4:08:47 PM carorder run
+INFO:  worker 0 made car with id 107
+июн. 17, 2020 4:08:48 PM carorder run
+INFO:  worker 1 made car with id 108
+июн. 17, 2020 4:08:48 PM carorder run
+INFO:  worker 0 made car with id 109
+июн. 17, 2020 4:08:48 PM carorder run
+INFO:  worker 1 made car with id 110
+июн. 17, 2020 4:08:48 PM carorder run
+INFO:  worker 0 made car with id 111
+июн. 17, 2020 4:08:49 PM carorder run
+INFO:  worker 1 made car with id 112
+июн. 17, 2020 4:08:49 PM carorder run
+INFO:  worker 0 made car with id 113
+июн. 17, 2020 4:08:49 PM carorder run
+INFO:  worker 1 made car with id 114
+июн. 17, 2020 4:08:49 PM carorder run
+INFO:  worker 0 made car with id 115
+июн. 17, 2020 4:08:49 PM carorder run
+INFO:  worker 1 made car with id 116
+июн. 17, 2020 4:08:50 PM carorder run
+INFO:  worker 2 made car with id 117
+июн. 17, 2020 4:08:50 PM carorder run
+INFO:  worker 1 made car with id 118

@@ -1,0 +1,8 @@
+StorageBodySize 10
+StoragePowerSize 20
+StorageAcsSize 30
+StorageCarSize 40
+Acs 5
+Workers 3
+Dealers 2
+LogSale true
