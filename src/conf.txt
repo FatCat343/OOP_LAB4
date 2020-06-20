@@ -1,8 +1,8 @@
 StorageBodySize 10
 StoragePowerSize 20
 StorageAcsSize 30
-StorageCarSize 40
+StorageCarSize 7
 Acs 5
-Workers 3
+Workers 4
 Dealers 2
 LogSale true
